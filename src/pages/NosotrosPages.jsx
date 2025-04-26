@@ -15,21 +15,21 @@ const integrantes = [
     nombre: "Lisandro Quiroga",
     apellido: "Castro",
     legajo: "62318",
-    github: "https://github.com/lisandro01",
+    github: "https://github.com/Lisandro-18",
     foto: "https://i.pinimg.com/736x/e9/e9/d0/e9e9d087275362255ceb3f45d5c2d807.jpg"
   },
   {
     nombre: "Augusto Nicolas",
     apellido: "Tula",
-    legajo: "61995",
-    github: "https://github.com/augustotula",
+    legajo: "61574",
+    github: "https://github.com/totont27",
     foto: "https://i.pinimg.com/736x/0c/ef/2e/0cef2ecb12dadce39ebd03fc2aff1385.jpg"
   },
   {
     nombre: "Nadia Antonella",
     apellido: "Ruiz",
-    legajo: "61996",
-    github: "https://github.com/nadiaruiz",
+    legajo: "61492",
+    github: "https://github.com/antoruizx",
     foto: "https://i.pinimg.com/736x/51/52/37/515237b47d0cd2e707b1a8b5317d9a52.jpg"
   },
   {
